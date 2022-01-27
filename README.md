@@ -1,1 +1,1 @@
-# teachableMachine
+this is my teachableMachine
